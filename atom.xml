@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>这是个标题</title>
+  <title>转生成蜘蛛子</title>
   
-  
+  <subtitle>记录日常笔记又怎样</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
