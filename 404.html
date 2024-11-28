@@ -102,7 +102,16 @@
 <header id="header">
   
     
-      <img fetchpriority="high" src="/images/tiantai.png" alt="">
+      <picture>
+        
+          <source media="(max-width: 479px)" srcset="/images/tiantai.png">
+        
+          <source media="(max-width: 799px)" srcset="/images/tiantai.png">
+        
+          <source media="(min-width: 800px)" srcset="/images/tiantai.png">
+        
+        <img fetchpriority="high" src="/images/tiantai.png" alt="">
+      </picture>
     
   
   <div id="header-outer">
