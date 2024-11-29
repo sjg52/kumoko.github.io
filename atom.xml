@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-28T12:01:25.121Z</updated>
+  <updated>2024-11-29T02:47:54.526Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2024/11/28/Learn-html/"/>
     <id>http://example.com/2024/11/28/Learn-html/</id>
     <published>2024-11-28T11:58:26.376Z</published>
-    <updated>2024-11-28T12:01:25.121Z</updated>
+    <updated>2024-11-29T02:47:54.526Z</updated>
     
-    <content type="html"><![CDATA[<p>来源是<a href="https://www.bilibili.com/video/BV1kM4y127Li/?p=3&amp;spm_id_from=333.880.my_history.page.click&amp;vd_source=d327742890f6b7694d0a202635037cec">b站</a><br />今日进度学习表单</p>]]></content>
+    <content type="html"><![CDATA[<p>来源是<a href="https://www.bilibili.com/video/BV1kM4y127Li/?p=3&amp;spm_id_from=333.880.my_history.page.click&amp;vd_source=d327742890f6b7694d0a202635037cec">b站</a>前端Web开发HTML5+CSS3+移动web视频教程</p><h2 id="常用的标签"><a class="markdownIt-Anchor" href="#常用的标签"></a> 常用的标签</h2><h3 id="标题标签"><a class="markdownIt-Anchor" href="#标题标签"></a> 标题标签</h3><p>标签名：<code>h1 ~ h6（双标签）</code><br />显示特点：</p><ul><li>文字加粗</li><li>字号逐渐减小</li><li>独占一行（换行）</li></ul><p>h1标签在一个网页中只能使用一次，用来放标题或网页的logo<br />h2 ~ h6没有使用次数限制</p><h3 id="段落标签"><a class="markdownIt-Anchor" href="#段落标签"></a> 段落标签</h3><p>标签名：<code>p（双标签）</code><br />显示特点：</p><ul><li>独占一行</li><li>段落之间存在间隙</li></ul><h3 id="换行"><a class="markdownIt-Anchor" href="#换行"></a> 换行</h3><p>标签名：<code>&lt;br&gt;（单标签）</code></p><h3 id="水平线"><a class="markdownIt-Anchor" href="#水平线"></a> 水平线</h3><p>标签名：<code>&lt;hr&gt;（单标签）</code></p>]]></content>
     
     
       
